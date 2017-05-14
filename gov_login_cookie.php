@@ -6,7 +6,7 @@ defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
  */
 /*
 Plugin Name: Gov Login Cookie
-Plugin URI: http://www.zippyanime.net
+Plugin URI: http://nyocode.com
 Author: Governor
 Version: 1.0
 Author URI: http://nyocode.com
